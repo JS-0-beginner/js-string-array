@@ -25,4 +25,4 @@ WD_day_28_M28
  -------------------------------------->
 
 
-It will sort all the numbers from initializing first number of each numbers
+Unlimited parameters to a function using arguments
