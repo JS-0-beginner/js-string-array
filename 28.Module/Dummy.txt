@@ -25,4 +25,18 @@ WD_day_28_M28
  -------------------------------------->
 
 
-Unlimited parameters to a function using arguments
+TypeError
+SyntaxError
+
+TypeError : Cannot read property 'name' of undefined (Life-Time Error) 
+
+Catch(error)
+Catch(er = error)
+Catch(ex = exist)
+
+Time - Two Way
+
+1.Local Time (GMT)
+2.UTC
+
+Moment JS
